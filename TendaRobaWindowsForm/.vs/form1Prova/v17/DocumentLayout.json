@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|c:\\users\\gaming\\source\\repos\\form1prova\\form1prova\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|solutionrelative:form1prova\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|c:\\users\\gaming\\source\\repos\\form1prova\\form1prova\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|solutionrelative:form1prova\\principal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|c:\\users\\gaming\\source\\repos\\form1prova\\form1prova\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB7A530D-1087-4DD6-9CFC-A266D479C915}|form1Prova\\form1Prova.csproj|solutionrelative:form1prova\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.cs",
+              "RelativeDocumentMoniker": "form1Prova\\Principal.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.cs",
+              "RelativeToolTip": "form1Prova\\Principal.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:39:15.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.cs",
+              "RelativeDocumentMoniker": "form1Prova\\Principal.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "form1Prova\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:35:46.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.Designer.cs",
+              "RelativeDocumentMoniker": "form1Prova\\Principal.Designer.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\form1Prova\\form1Prova\\Principal.Designer.cs",
+              "RelativeToolTip": "form1Prova\\Principal.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAANUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:07:43.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
